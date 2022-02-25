@@ -1,4 +1,16 @@
-# Jazzie modules
+# Features
+- Comes with custom Loading screen and UI
+- Allows picking of genre for music selection
+- Autofills MP3 tags if used with iTunes
+ 
+# Images
+
+UI github.com/McKayMower/Jazzie/Jazzie_UI.png
+
+Loading Screen github.com/McKayMower/Jazzie/jazzie_loading.png
+
+
+# Jazzie Installation
 After copying the files, the modules below need to be installed using pip:
 # 
 -pytube (pip install pytube)
@@ -6,4 +18,4 @@ After copying the files, the modules below need to be installed using pip:
 -PySide2 (pip install PySide2)
 -mutagen (pip install mutagen)
 # 
-Sometimes errors arise from the different modules when YouTube API updates. Try upgrading the installed modules to see if the error gets fixed.
+Sometimes errors arise from the different modules when YouTube API updates. Try upgrading the installed modules to see if the error gets fixed. (Mainly pytube: python -m pip install git+https://github.com/pytube/pytube)
