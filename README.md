@@ -11,7 +11,7 @@
 
 
 # Jazzie Installation
-After copying the files, the modules below need to be installed using pip:
+After copying the .py files, the modules below need to be installed using pip:
 # 
 -pytube (pip install pytube)
 -PIL (pip install pillow)
