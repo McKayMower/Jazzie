@@ -5,9 +5,9 @@
  
 # Images
 
-UI github.com/McKayMower/Jazzie/Jazzie_UI.png
+[UI](github.com/McKayMower/Jazzie/Jazzie_UI.png)
 
-Loading Screen github.com/McKayMower/Jazzie/jazzie_loading.png
+[Loading Screen](github.com/McKayMower/Jazzie/jazzie_loading.png)
 
 
 # Jazzie Installation
